@@ -9,7 +9,7 @@
 import sphinx_rtd_theme
 
 project = 'Streamer Investigation'
-copyright = '2023, Mark Baggett'
+copyright = '2020, Mark Baggett'
 author = 'Mark Baggett'
 
 # -- General configuration ---------------------------------------------------
